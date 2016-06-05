@@ -48,6 +48,23 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	h1 {
+		background-color: #2E369D;
+		display:inline-block;
+		box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
+		padding: 0 1.5em 0 1.5em;
+
+	}
+
+	p {
+		top:30px;
+		position: relative;
+	}
+
+	p.prezentare{
+		font-size: 25px;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1461,6 +1478,8 @@
 			padding-top: 0;
 			margin-top: 0;
 		}
+
+
 
 	ul.style3 li {
 		border-top: solid 1px #eee;
