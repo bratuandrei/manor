@@ -64,6 +64,11 @@
 	p.prezentare{
 		font-size: 25px;
 	}
+   #map {
+       position: relative;
+       bottom: 70px;
+
+   }
 
 /* Box Model */
 
