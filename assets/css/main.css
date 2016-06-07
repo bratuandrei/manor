@@ -2727,3 +2727,11 @@
 	margin-bottom:0;
 }	
 
+.parteneri header h2{
+	text-transform:uppercase;
+}
+
+.parteneri .image img{
+	width:auto;
+}	
+
