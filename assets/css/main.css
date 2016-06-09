@@ -1325,7 +1325,7 @@
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: auto;
 		}
 
 		.image.fit {
