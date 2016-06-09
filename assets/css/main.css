@@ -1366,7 +1366,7 @@
 		-ms-transition: all .25s ease-in-out;
 		transition: all .25s ease-in-out;
 		display: inline-block;
-		background: #444;
+		background: #D3D3D3;
 		text-align: center;
 		text-transform: uppercase;
 		font-weight: 700;
@@ -1400,7 +1400,7 @@
 			input[type="reset"].style1:hover,
 			button.style1:hover,
 			.button.style1:hover {
-				background-color: #f98780;
+				background-color: #2E369D;
 			}
 
 			input[type="button"].style1:active,
