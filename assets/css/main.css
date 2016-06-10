@@ -2739,3 +2739,12 @@
 	width: 100%; 
 }
 
+.hovermisto figure img {
+	opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hovermisto figure:hover img {
+	opacity: .5;
+}
+
